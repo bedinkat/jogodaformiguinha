@@ -1,0 +1,21 @@
+.bola{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-image: url(./imagens/caveira.jpg);
+    background-size: 100px 100px;
+    position: absolute;
+    margin-top: 80px;
+
+}
+h2 {
+    color:brown;
+    font-size: 50px;
+    position: relative;
+    margin-top: 0 absolute;
+}
+  
+#score {
+    margin-top: 80px;
+
+}
